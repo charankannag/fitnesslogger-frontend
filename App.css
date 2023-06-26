@@ -1,0 +1,106 @@
+.App {
+  width:100%;
+  height:50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://www.shutterstock.com/image-photo/gym-interior-free-space-your-260nw-1532086055.jpg);
+  box-sizing: border-box;
+}
+.App > h1 {
+  color:red;
+  align-items: start;
+}
+.App > h1 {
+  color: red;
+}
+.App > h3 {
+  color: aqua;
+}
+.App > h2 {
+  color: aqua;
+}
+.App > h1 {
+  color: red;
+}
+.App-content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://www.shutterstock.com/image-vector/warmup-exercise-set-before-workout-260nw-1457642282.jpg);
+  box-sizing: border-box;
+}
+.App-content > h1 {
+  color:brown;
+}
+.App-content > h2 {
+  color:blueviolet;
+}
+.number-two {
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ4bVZarYgNrdBh8QcvML37VZf5HVEunmem1yJS8IA&s);
+box-sizing: border-box;
+width: 100%;
+height: 100%;
+display:flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.number-two > h1 {
+  color: chocolate;
+}
+.number-two > h2 {
+  color: darkblue;
+}
+.number-three {
+  width : 100%;
+  height :100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://www.hevyapp.com/wp-content/uploads/leg-raises.png);
+  box-sizing: border-box;
+}
+.number-three > h1 {
+  color: darkred;
+}
+.number-three > h2 {
+  color: crimson;
+}
+.number-four {
+  width: 100%;
+  height: 100%;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvoPbD7FNAQJRWo6AABSoyTfdZyw5879vNk2T3-9FmQ&usqp=CAU&ec=48665701);
+}
+.Nextpage {
+  background-color: white;
+  border: 2px solid black;
+  color: green;
+  padding: 5px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  margin: 10px 30px;
+  cursor: pointer;
+  }
+  .Previouspage {
+    background-color: white;
+    border: 2px solid black;
+    color: green;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 30px;
+    cursor: pointer;
+    }
